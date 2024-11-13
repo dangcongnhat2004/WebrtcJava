@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "830149101604",
+    "firebase_url": "https://webrtcjava-29211-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "webrtcjava-29211",
+    "storage_bucket": "webrtcjava-29211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830149101604:android:e68d2cb1777531f56db0b1",
+        "android_client_info": {
+          "package_name": "com.example.webrtcjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_ChX1ix5s7Poi3rRPFQcNzWpN--LUQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
